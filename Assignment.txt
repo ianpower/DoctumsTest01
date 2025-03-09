@@ -1,2 +1,0 @@
-cat-getter:
-Call the catfact API 20 times and return a CSV file with the fact and length from each call.  Post the CSV file to laria-net.com.
