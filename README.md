@@ -1,0 +1,2 @@
+Both cat-getter and cat-setter require the .NET 9.0 SDK, which is available here https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/sdk-9.0.200-windows-x64-installer.  
+Download the .cs and .csproj files associated with each project to two separate folders on your local device, navigate to this folder in Command Prompt, and run the command "dotnet run".  Cat-getter will return a CSV file and upload the same file to an FTP site defined in the program, while cat-setter will post results to a designated MySQL server with supplied credentials.
